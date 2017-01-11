@@ -1,0 +1,9 @@
+D:\Documents\WebUITestFW\packages\WebDriver.GeckoDriver.0.9.0\bin\Debug\SeleniumWebDrivers.dll
+D:\Documents\WebUITestFW\packages\WebDriver.GeckoDriver.0.9.0\bin\Debug\SeleniumWebDrivers.pdb
+D:\Documents\WebUITestFW\packages\WebDriver.GeckoDriver.0.9.0\obj\Debug\SeleniumWebDrivers.csprojResolveAssemblyReference.cache
+D:\Documents\WebUITestFW\packages\WebDriver.GeckoDriver.0.9.0\obj\Debug\SeleniumWebDrivers.dll
+D:\Documents\WebUITestFW\packages\WebDriver.GeckoDriver.0.9.0\obj\Debug\SeleniumWebDrivers.pdb
+D:\Documents\WebUITestFW\packages\SeleniumWebDrivers\bin\Debug\SeleniumWebDrivers.dll
+D:\Documents\WebUITestFW\packages\SeleniumWebDrivers\bin\Debug\SeleniumWebDrivers.pdb
+D:\Documents\WebUITestFW\packages\SeleniumWebDrivers\obj\Debug\SeleniumWebDrivers.dll
+D:\Documents\WebUITestFW\packages\SeleniumWebDrivers\obj\Debug\SeleniumWebDrivers.pdb

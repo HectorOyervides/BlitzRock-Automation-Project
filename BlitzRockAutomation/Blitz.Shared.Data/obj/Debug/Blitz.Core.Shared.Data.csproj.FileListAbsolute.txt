@@ -1,0 +1,17 @@
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\bin\Debug\Blitz.Shared.Data.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\bin\Debug\Blitz.Shared.Data.pdb
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\bin\Debug\Blitz.Shared.Functions.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\bin\Debug\System.Data.Common.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\bin\Debug\WebDriver.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\bin\Debug\WebDriver.Support.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\bin\Debug\Blitz.Shared.Functions.pdb
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\bin\Debug\WebDriver.xml
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\bin\Debug\WebDriver.Support.xml
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\obj\Debug\Blitz.Core.Shared.Data.csprojResolveAssemblyReference.cache
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\obj\Debug\Interop.Microsoft.Office.Interop.Access.Dao.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\obj\Debug\Interop.MSDASC.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\obj\Debug\Blitz.Core.Shared.Data.csproj.ResolveComReference.cache
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\obj\Debug\Blitz.Shared.Data.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Data\obj\Debug\Blitz.Shared.Data.pdb

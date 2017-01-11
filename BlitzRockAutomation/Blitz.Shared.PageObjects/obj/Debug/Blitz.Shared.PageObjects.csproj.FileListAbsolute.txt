@@ -1,0 +1,29 @@
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.PageObjects\bin\Debug\Blitz.Shared.PageObjects.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.PageObjects\bin\Debug\Blitz.Shared.PageObjects.pdb
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.PageObjects\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.PageObjects\obj\Debug\Blitz.Shared.PageObjects.csprojResolveAssemblyReference.cache
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.PageObjects\obj\Debug\Blitz.Shared.PageObjects.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.PageObjects\obj\Debug\Blitz.Shared.PageObjects.pdb
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.PageObjects\bin\Debug\Blitz.Shared.Data.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.PageObjects\bin\Debug\Blitz.Shared.Functions.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.PageObjects\bin\Debug\WebDriver.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.PageObjects\bin\Debug\WebDriver.Support.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.PageObjects\bin\Debug\Blitz.Shared.Data.pdb
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.PageObjects\bin\Debug\Blitz.Shared.Functions.pdb
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.PageObjects\bin\Debug\WebDriver.xml
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.PageObjects\bin\Debug\WebDriver.Support.xml
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.PageObjects\bin\Debug\Blitz.Shared.PageObjects.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.PageObjects\bin\Debug\Blitz.Shared.PageObjects.pdb
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.PageObjects\bin\Debug\Blitz.Shared.Data.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.PageObjects\bin\Debug\Blitz.Shared.Functions.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.PageObjects\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.PageObjects\bin\Debug\System.Data.Common.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.PageObjects\bin\Debug\WebDriver.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.PageObjects\bin\Debug\WebDriver.Support.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.PageObjects\bin\Debug\Blitz.Shared.Data.pdb
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.PageObjects\bin\Debug\Blitz.Shared.Functions.pdb
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.PageObjects\bin\Debug\WebDriver.xml
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.PageObjects\bin\Debug\WebDriver.Support.xml
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.PageObjects\obj\Debug\Blitz.Shared.PageObjects.csprojResolveAssemblyReference.cache
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.PageObjects\obj\Debug\Blitz.Shared.PageObjects.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.PageObjects\obj\Debug\Blitz.Shared.PageObjects.pdb

@@ -1,0 +1,20 @@
+c:\users\mitek\documents\visual studio 2015\Projects\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\BlitzPortalLegacy.dll
+c:\users\mitek\documents\visual studio 2015\Projects\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\BlitzPortalLegacy.pdb
+c:\users\mitek\documents\visual studio 2015\Projects\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\mitek\documents\visual studio 2015\Projects\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\WebDriver.xml
+c:\users\mitek\documents\visual studio 2015\Projects\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\WebDriver.Support.xml
+c:\users\mitek\documents\visual studio 2015\Projects\BlitzPortalLegacy\BlitzPortalLegacy\obj\Debug\BlitzPortalLegacy.csprojResolveAssemblyReference.cache
+c:\users\mitek\documents\visual studio 2015\Projects\BlitzPortalLegacy\BlitzPortalLegacy\obj\Debug\BlitzPortalLegacy.dll
+c:\users\mitek\documents\visual studio 2015\Projects\BlitzPortalLegacy\BlitzPortalLegacy\obj\Debug\BlitzPortalLegacy.pdb
+c:\users\mitek\documents\visual studio 2015\Projects\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\WebDriver.dll
+c:\users\mitek\documents\visual studio 2015\Projects\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\WebDriver.Support.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\WebDriver.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\WebDriver.Support.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\WebDriver.xml
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\WebDriver.Support.xml
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\obj\Debug\BlitzPortalLegacy.csprojResolveAssemblyReference.cache
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\BlitzRockAutomation.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\BlitzRockAutomation.pdb
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\obj\Debug\BlitzRockAutomation.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\obj\Debug\BlitzRockAutomation.pdb

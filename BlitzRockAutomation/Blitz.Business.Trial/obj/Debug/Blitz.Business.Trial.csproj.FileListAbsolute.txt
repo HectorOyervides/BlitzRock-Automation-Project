@@ -1,0 +1,10 @@
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\BlitzBusinessTrial.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\BlitzBusinessTrial.pdb
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\WebDriver.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\WebDriver.Support.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\WebDriver.xml
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\bin\Debug\WebDriver.Support.xml
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\obj\Debug\Blitz.Business.Trial.csprojResolveAssemblyReference.cache
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\obj\Debug\BlitzBusinessTrial.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\BlitzPortalLegacy\obj\Debug\BlitzBusinessTrial.pdb

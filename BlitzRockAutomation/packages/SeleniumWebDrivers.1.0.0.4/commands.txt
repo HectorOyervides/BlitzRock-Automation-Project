@@ -1,0 +1,5 @@
+nuget spec -f bin\Release\SeleniumWebDrivers.dll
+
+nuget pack SeleniumWebDrivers.nuspec -verbosity detailed
+
+nuget push SeleniumWebDriver.nupkg -Source 
