@@ -1,0 +1,21 @@
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.Functions\obj\Debug\Blitz.Shared.Functions.csprojResolveAssemblyReference.cache
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.Functions\bin\Debug\Blitz.Shared.Functions.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.Functions\bin\Debug\Blitz.Shared.Functions.pdb
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.Functions\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.Functions\bin\Debug\WebDriver.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.Functions\bin\Debug\WebDriver.Support.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.Functions\bin\Debug\WebDriver.xml
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.Functions\bin\Debug\WebDriver.Support.xml
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.Functions\obj\Debug\Blitz.Shared.Functions.dll
+C:\Users\hector.oyervides\Desktop\BlitzPortalLegacy\BlitzPortalLegacy\Blitz.Shared.Functions\obj\Debug\Blitz.Shared.Functions.pdb
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Functions\bin\Debug\Blitz.Shared.Functions.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Functions\bin\Debug\Blitz.Shared.Functions.pdb
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Functions\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Functions\bin\Debug\System.Data.Common.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Functions\bin\Debug\WebDriver.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Functions\bin\Debug\WebDriver.Support.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Functions\bin\Debug\WebDriver.xml
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Functions\bin\Debug\WebDriver.Support.xml
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Functions\obj\Debug\Blitz.Shared.Functions.csprojResolveAssemblyReference.cache
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Functions\obj\Debug\Blitz.Shared.Functions.dll
+C:\Users\hector.oyervides\Documents\Visual Studio 2015\Projects\BlitzRock Automation Project\BlitzRockAutomation\Blitz.Shared.Functions\obj\Debug\Blitz.Shared.Functions.pdb
